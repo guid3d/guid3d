@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @guid3d
-- 👀 I’m interested in Mobile Application Development and Data Engineering
+- 👀 My obsession in Mobile Application Development
 - 🌱 I’m currently studying Data Engineering and Analytics at TUM
 - 📫 You can reach me at <hi@promwat.com>
 
